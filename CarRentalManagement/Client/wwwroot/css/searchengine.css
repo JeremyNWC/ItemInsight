@@ -1,0 +1,20 @@
+﻿*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    font-size: 18px;
+}
+body{
+    margin:4vh;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sidebar{
+    width: 25%;
+    border: dashed solid #fff;
+
+}
